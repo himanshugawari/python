@@ -1,4 +1,4 @@
-# python deepl learning basic
+# python deep learning basic
 bash commands
 python commands
 math
